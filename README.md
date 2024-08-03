@@ -22,10 +22,6 @@ By distilling classifier-free guidance into the model's input, LCM can generate 
 
 
 ## Usage
-We have official [**LCM Pipeline**](https://github.com/huggingface/diffusers/tree/main/src/diffusers/pipelines/latent_consistency_models) and [**LCM Scheduler**](https://github.com/huggingface/diffusers/blob/main/src/diffusers/schedulers/scheduling_lcm.py) in 🧨 Diffusers library now! The older usages will be deprecated.
-
-You can try out Latency Consistency Models directly on:
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/SimianLuo/Latent_Consistency_Model)
 
 To run the model yourself, you can leverage the 🧨 Diffusers library:
 1. Install the library:
