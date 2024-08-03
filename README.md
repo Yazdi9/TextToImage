@@ -1,4 +1,6 @@
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/latent-consistency-model-colab/blob/main/latent_consistency_model_colab.ipynb) | latent_consistency_model_colab (Dreamshaper_v7)
+
 ## 🔥 Local gradio Demos (Text-to-Image):
 
 To run the model locally, you can download the "local_gradio" folder:
