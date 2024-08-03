@@ -25,42 +25,32 @@
 <tr>
   <td><img src="https://github.com/user-attachments/assets/d0130a5f-3a09-4267-aa1a-8c7bc053210c"></td>
   <td><img src="https://github.com/user-attachments/assets/309beb07-cb65-4a44-92e3-ea70772f0576"></td>
-  <td><img src="https://github.com/user-attachments/assets/e937c885-974d-4652-8466-d2bec66779c8"></td> 
+  <td><img src="https://github.com/user-attachments/assets/b1d0d9d1-f06b-4dd1-93b0-7e9368522ea6"></td>
+ 
              
  
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"An old, enchanted library with towering bookshelves, floating books, and a cozy reading nook with a fireplace casting a warm glow"</td>
   <td width=25% style="text-align:center;">"A picturesque winter wonderland with snow-covered trees, a frozen lake, and a cozy cabin with smoke curling from the chimney"</td>
-  <td width=25% style="text-align:center;">"A futuristic city at night with neon lights, towering skyscrapers, and flying cars zipping through the sky, with a large moon looming overhead."</td>
+  <td width=25% style="text-align:center;">"A serene, mystical forest with bioluminescent plants glowing in various colors under a starry night sky."</td>
  </tr>
 
 <tr>
-  <td><img src="https://tuneavideo.github.io/assets/data/car-turn.gif"></td>
-  <td><img src="https://user-images.githubusercontent.com/33378412/227790590-c1c13d51-7409-4f3c-914f-9d1ad422bc30.gif"></td>              
-  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/car-turn/car-snow.gif"></td>
+  <td><img src="https://github.com/user-attachments/assets/3036a5b2-67bb-4185-84ba-ec28afa21385"></td>
+  <td><img src="https://github.com/user-attachments/assets/553d08c9-763e-441d-ba68-ed64d8603aac"></td>   
+  <td><img src="https://github.com/user-attachments/assets/d5fa9677-a20f-47b9-8f76-03ac5a1c031d"></td>
+
 </tr>
 <tr>
-  <td width=25% style="text-align:center;color:gray;">"A jeep car is moving on the road"</td>
-  <td width=25% style="text-align:center;">"A car is moving on the road, cartoon style"</td>
-  <td width=25% style="text-align:center;">"A car is moving on the snow"</td>
+  <td width=25% style="text-align:center;color:gray;">"A grand fantasy castle perched on a cliff, with turrets and spires reaching into the clouds, surrounded by a magical, swirling mist"</td>
+  <td width=25% style="text-align:center;">"An astronaut standing on the surface of a distant planet, looking out at a stunning galaxy filled with stars, nebulae, and a nearby spaceship"</td>
+  <td width=25% style="text-align:center;">"A vibrant alien landscape with strange, colorful plants, unusual rock formations, and a sky with multiple moons and planets visible"</td>
 
  
 </tr>
 
 
-<!-- <tr>
-  <td><img src="https://tuneavideo.github.io/assets/data/lion-roaring.gif"></td>
-  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/lion-roaring/tiger-roar.gif"></td>
-  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/lion-roaring/lion-vangogh.gif"></td>              
-  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/lion-roaring/wolf-nyc.gif"></td>
-</tr>
-<tr>
-  <td width=25% style="text-align:center;color:gray;">"A lion is roaring"</td>
-  <td width=25% style="text-align:center;">"A tiger is roaring"</td>
-  <td width=25% style="text-align:center;">"A lion is roaring, Van Gogh style"</td>
-  <td width=25% style="text-align:center;">"A wolf is roaring in New York City"</td>
-</tr> -->
 
 </table>
 
